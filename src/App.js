@@ -5,7 +5,7 @@ import Navbar from "./Navbar";
 
 function App() {
   return (
-    <div class="app bg-gradient-to-tr from-[#A6965810] to-[#F9214710] h-full">
+    <div class="app bg-blur-1 bg-gradient-to-tr from-[#A6965810] to-[#F9214710] h-full">
       <Navbar />
       <Homepage/>
     </div>

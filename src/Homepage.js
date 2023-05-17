@@ -1,3 +1,5 @@
+
+
 import React from "react";
 import homepageData from "./homepageData.json";
 import Homepage2 from "./Homepage2";
@@ -12,16 +14,16 @@ const Homepage = () => {
   console.log(data[0].title);
 
   return (
-    <div className="flex flex-col items-center gap-10">
+    <div className="flex flex-col items-center gap-10 cursor-">
       {/* Hero */}
       <Hero />
       {/* Homepage2 */}
       <Homepage2 />
       {/* Hompepages */}
-      <div className="flex flex-col items-center text-centeer w-[70%]">
-        {data.map((item) => (
+      <div className="flex flex-col items-center text-center w-[70%]">
+        {data.map((item,index) => (
           <div key={item.componentName}>
-            <Homepage3 homepageData={item} />
+            <Homepage3 homepageData={item} imageIndex={index % 5} />
           </div>
         ))}
       </div>

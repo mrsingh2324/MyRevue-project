@@ -1,18 +1,6 @@
+
+
 [
-  {
-    "componentName": "Homepage4",
-    "componentContent": {
-      "title": "Templates crafted by experts",
-      "description": "Create your video request in seconds with one of our templates. If you want to increase response rates, you can even include a video greeting & incentive.",
-      "imageSrc": "./images/homepage3.webp",
-      "listItems": [
-        "With an optional video greeting, you can personalize your requests",
-        "Ask your personalized questions",
-        "Share points to cover in video",
-        "Fully guided setup process"
-      ]
-    }
-  },  
   {
     "componentName": "Homepage3",
     "componentContent": {
@@ -28,11 +16,38 @@
     }
   },
   {
+    "componentName": "Homepage4",
+    "componentContent": {
+      "title": "Templates crafted by experts",
+      "description": "Create your video request in seconds with one of our templates. If you want to increase response rates, you can even include a video greeting & incentive.",
+      "imageSrc": "./images/homepage3.webp",
+      "listItems": [
+        "With an optional video greeting, you can personalize your requests",
+        "Ask your personalized questions",
+        "Share points to cover in video",
+        "Fully guided setup process"
+      ]
+    }
+  }, 
+  {
+    "componentName": "Homepage5",
+    "componentContent": {
+      "title": "Editing is insanely easy with zero effort for Pro-Style Videos",
+      "description": "When you get a response, You can trim, add brand logo, add stakeholder name.",
+      "imageSrc": "./images/homepage4.webp",
+      "listItems": [
+        "Easily trim responses to the best parts",
+        "Add brand logo Instantly",
+        "Give it personality with a stakeholder name"
+      ]
+    }
+  },
+  {
     "componentName": "Homepage6",
     "componentContent": {
       "title": "Embedding & hosting are ad-free",
       "description": "Give your marketing a boost by publishing, embedding, and sharing:",
-      "imageSrc": "./images/homepage5.webp",
+      "imageSrc": "",
       "listItems": [
         "Boost conversions by embedding videos and dynamic galleries",
         "You can amplify your brand by sharing your videos on social media and YouTube",
@@ -53,18 +68,6 @@
         "Get top product insights"
       ]
     }
-  },
-  {
-    "componentName": "Homepage5",
-    "componentContent": {
-      "title": "Editing is insanely easy with zero effort for Pro-Style Videos",
-      "description": "When you get a response, You can trim, add brand logo, add stakeholder name.",
-      "imageSrc": "./images/homepage4.webp",
-      "listItems": [
-        "Easily trim responses to the best parts",
-        "Add brand logo Instantly",
-        "Give it personality with a stakeholder name"
-      ]
-    }
   }
+ 
 ]

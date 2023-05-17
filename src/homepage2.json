@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "image": "BiTask",
+      "title": "Create a task",
+      "about": "Create a task for UGC creators in under a minute with MyRevue Elite. Share your product details and select your preferred video type, quality, and duration to get started!"
+    },
+    {
+      "id": 2,
+      "image": "FaShippingFast",
+      "title": "Ship the product",
+      "about": "Ready to see what our UGC creators can do? Once you've approved your favorites, simply ship your products to them and watch the magic happen with MyRevue Elite."
+    },
+    {
+      "id": 3,
+      "image": "FaCheck",
+      "title": "Enjoy the content",
+      "about": "With MyRevue Elite, custom-made UGC videos are the key to scaling your business like crazy! Approve the content or request edits, and receive your typical video in just 7-10 days!"
+    }
+  ]
+  

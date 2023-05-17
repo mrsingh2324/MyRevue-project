@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+::-webkit-scrollbar{
+    display: none;
+}
+.border-color {
+    border: 1px solid linear-gradient(to right bottom, rgb(0, 0, 0), pink);
+}
